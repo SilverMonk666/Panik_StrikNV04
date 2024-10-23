@@ -19,7 +19,6 @@ DerivedDataCache
 Content/HorrorEngine/Audio
 Content/HorrorEngine/Blueprints/Enums
 Content/HorrorEngine/Blueprints/Structures
-Content/HorrorEngine/Maps
 Content/HorrorEngine/Materials
 Content/HorrorEngine/Textures
 Content/HorrorEngine/Media
@@ -29,6 +28,7 @@ Content/Movies
 Content/StarterContent/
 Content/Megascans
 Content/MSPresets
+Content/MyShizzles/Textures
 
 
 
