@@ -16,6 +16,7 @@ Build
 Intermediate
 Saved
 DerivedDataCache
+Exports
 Content/HorrorEngine/Audio
 Content/HorrorEngine/Blueprints/Enums
 Content/HorrorEngine/Blueprints/Structures
@@ -29,9 +30,14 @@ Content/StarterContent/
 Content/Megascans
 Content/MSPresets
 Content/MyShizzles/Textures
-
+Content/__ExternalObjects__
+Content/Characters
+Content/LevelPrototyping
+/Content/__ExternalActors__
+/Content/ThirdPerson
 
 
 HorrorEngine.png
 Panik_StrikNV04.uproject
 
+Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset
