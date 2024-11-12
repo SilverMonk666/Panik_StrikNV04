@@ -51,3 +51,14 @@ Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKP
 /Content/Brushify
 /Content/Meadow_Environment_Set
 /Things
+/Plugins/Content/Actors
+/Plugins/Content/MaterialFunctions
+/Plugins/Content/Materials
+Plugins/Config/BaseFab.ini
+Plugins/Content/Data/FabEos.uasset
+Plugins/Content/MaterialParameterCollection/QMPC_GlobalFoliageActor.uasset
+/Plugins/Content/Placeholders
+/Plugins/Content/Textures
+Plugins/Fab.uplugin
+/Plugins
+.vsconfig
