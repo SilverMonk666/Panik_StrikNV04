@@ -64,7 +64,9 @@ Plugins/Fab.uplugin
 .vsconfig
 /Content/MyShizzles/Audio
 
-*.uasset
+
+
 
 /Content/MyShizzles/Meshes
 
+/Content/MyShizzles/RakeMesh
