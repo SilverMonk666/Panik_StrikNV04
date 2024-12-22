@@ -62,15 +62,16 @@ Plugins/Content/MaterialParameterCollection/QMPC_GlobalFoliageActor.uasset
 Plugins/Fab.uplugin
 /Plugins
 .vsconfig
-/Content/MyShizzles/Audio
-/Content/MyShizzles/Audio
-*.uasset
+
+
+
 /Content/MyShizzles/Audio
 /Content/MyShizzles/Meshes
-/Content/MyShizzles/Meshes
+
 <<<<<<< HEAD
 
 /Content/MyShizzles/RakeMesh
 /Content/ModularSciFi
 =======
 >>>>>>> parent of 70cf7c9 (Started adding Voices Lines)
+/Content/Realistic_Starter_VFX_Pack_Vol2
