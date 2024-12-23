@@ -35,9 +35,43 @@ Content/Characters
 Content/LevelPrototyping
 /Content/__ExternalActors__
 /Content/ThirdPerson
+/Content/Fab
 
 
 HorrorEngine.png
 Panik_StrikNV04.uproject
 
 Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/SY/Z4CTQ4LG3YV10EKPD0UE8Q.uasset
+/Content/FREE_Horror_Music_Pack
+/Content/AnimationsMonstUE4pcs9
+/Content/AnimationsMonstUE4pcs9
+/Content/AnimationsMonstUE4pcs9
+/Content/AnimationsMonstUE4pcs9
+/Content/SmallSoundKit
+/Content/Brushify
+/Content/Meadow_Environment_Set
+/Things
+/Plugins/Content/Actors
+/Plugins/Content/MaterialFunctions
+/Plugins/Content/Materials
+Plugins/Config/BaseFab.ini
+Plugins/Content/Data/FabEos.uasset
+Plugins/Content/MaterialParameterCollection/QMPC_GlobalFoliageActor.uasset
+/Plugins/Content/Placeholders
+/Plugins/Content/Textures
+Plugins/Fab.uplugin
+/Plugins
+.vsconfig
+
+
+
+/Content/MyShizzles/Audio
+/Content/MyShizzles/Meshes
+
+<<<<<<< HEAD
+
+/Content/MyShizzles/RakeMesh
+/Content/ModularSciFi
+=======
+>>>>>>> parent of 70cf7c9 (Started adding Voices Lines)
+/Content/Realistic_Starter_VFX_Pack_Vol2
